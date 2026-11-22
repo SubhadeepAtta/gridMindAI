@@ -1,0 +1,6 @@
+Model,Target,MAE,RMSE,R2
+Demand,DC_Charging,3.4723,4.9283,0.966
+Demand,Swap_Requests,2.0744,3.0635,0.9214
+Renewable,Solar,2.2694,4.2779,0.864
+Renewable,Wind,1.8017,5.0995,0.1658
+Price,IEX_DAM,0.3852,0.6337,0.5428

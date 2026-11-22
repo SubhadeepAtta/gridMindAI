@@ -1,0 +1,7 @@
+Scenario,Baseline Reliability (%),AI Reliability (%),Reliability Δ (pp),Baseline Loss (%),AI Loss (%),Loss Δ (pp),Baseline EBITDA (%),AI EBITDA (%),EBITDA Δ (pp),Baseline Ren. Util (%),AI Ren. Util (%),Cost Saving (INR)
+Normal Operating Day,95.8,95.5,-0.2,7.8,8.1,-0.3,44.7,63.3,18.6,97.3,99.4,13800815.0
+Heatwave and Demand Surge,94.8,94.7,-0.1,6.8,8.5,-1.7,41.4,64.9,23.5,99.9,100.0,22687261.0
+Low Renewable (Cloudy/Low Wind),93.8,95.5,1.8,6.7,9.3,-2.6,32.2,61.7,29.5,100.0,100.0,23399467.0
+IEX Price Spike,95.7,90.8,-5.0,7.8,7.8,0.1,42.0,60.7,18.7,97.3,99.3,15921411.0
+Cluster Demand Imbalance,94.6,94.4,-0.2,9.3,10.0,-0.8,43.8,64.5,20.7,94.2,96.5,16606089.0
+Combined Extreme,92.0,86.8,-5.2,7.0,11.2,-4.2,22.0,67.4,45.4,100.0,100.0,54265637.0
